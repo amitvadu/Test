@@ -5,6 +5,7 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		System.out.println("my first github code new");
 		System.out.println("From Ubantu machine");
+		System.out.println("From Fedora machine");
 
 	}
 
